@@ -8,5 +8,6 @@ You can use part of the API located in the Socket.py.
 It's very easy you have to execute "connect.py" then follow the instructions.
 You also have a config call "const.py" or you can modify some options the comments will show you the instructions to case if you need help.
 
+
 # /!\ Python3 is required /!\ !!
 
